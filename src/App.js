@@ -8,9 +8,7 @@
 
 import React from 'react';
 import {StatusBar} from 'react-native';
-
 import {Colors} from 'react-native/Libraries/NewAppScreen';
-
 import {Router, Scene, Stack, Actions} from 'react-native-router-flux';
 import LoginScreen from './screen/Login';
 import ProfileScreen from './screen/Profile';
